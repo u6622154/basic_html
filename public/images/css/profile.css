@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f6fa;
+    color: #333;
+}
+
+header {
+    background-color: #005f99;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+/* About Me section */
+section {
+    background-color: #d9efff;
+    color: #333333;
+    font-size: 1.4em;
+    padding: 200px;
+}
